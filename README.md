@@ -38,3 +38,34 @@
 <p><strong>Enrolment Verification Code:</strong> kdCE9wqzpbyDeR6vz</p>
 <p><strong>User Verification Code:</strong> Qmu38xoLAcXhAoSXA</p>
 <p><strong>Issued by:</strong> Forage</p>
+
+
+<h1>3. Solutions Architecture Job Simulation</h1>
+
+<p>
+  This certificate recognizes my successful completion of the 
+  <strong>Solutions Architecture Job Simulation</strong> program. 
+  The course provided practical experience in designing a simple, scalable, hosting architecture.
+</p>
+
+<h2>🏆 Certificate Overview</h2>
+<ul>
+  <li><strong>Program:</strong> Solutions Architecture Job Simulation</li>
+  <li><strong>Completion Date:</strong> April 6, 2025</li>
+  <li><strong>Duration:</strong> April 2025</li>
+</ul>
+
+<h2>📚 Skills Acquired</h2>
+<ul>
+  <li>
+    <strong>Designing a Scalable Hosting Architecture:</strong><br>
+    Built foundational skills in creating scalable and efficient architecture solutions for hosting applications.
+  </li>
+</ul>
+
+<h2>🔗 Verification</h2>
+<ul>
+  <li><strong>Enrolment Verification Code:</strong> LmjehHhLvgDmanhYF</li>
+  <li><strong>User Verification Code:</strong> QdmQdwNCsocbriPJK</li>
+  <li><strong>Issued by:</strong> Forage</li>
+</ul>
